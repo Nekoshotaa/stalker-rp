@@ -1,0 +1,23 @@
+LANGUAGE = {
+    ["CraftMissingFlag"] = "У вас отсутствует необходимый флаг: %s.",
+    ["CraftMissingItem"] = "Не хватает предметов: %s.",
+    ["CraftSuccess"] = "Вы успешно изготовили: %s.",
+    ["CraftNeedStation"] = "Требуется станция",
+    ["CraftNeedStationNearby"] = "Вы должны находиться рядом со станцией: %s.",
+    ["CraftNeedSkill"] = "Требуется навык",
+    ["CraftNoSkillRequired"] = "Навык для этого рецепта не требуется.",
+    ["CraftSkillTooLow"] = "Недостаточный уровень навыка %s. Требуется: %s.",
+    ["CraftRecipeUnknown"] = "Этот рецепт ещё не изучен.",
+    ["CraftBlueprint"] = "Изучение",
+    ["CraftLearned"] = "изучено",
+    ["CraftNotLearned"] = "не изучено",
+    ["CraftRequirements"] = "ИНГРЕДИЕНТЫ",
+    ["CraftResults"] = "РЕЗУЛЬТАТ",
+    ["CraftDifficulty"] = "Сложность",
+    ["CraftDifficultyEasy"] = "простой",
+    ["CraftDifficultyMedium"] = "средний",
+    ["CraftDifficultyHard"] = "сложный",
+    ["CraftSearch"] = "Поиск рецепта...",
+    ["CraftCategoryDefault"] = "Крафт",
+    ["cmdCraftRecipe"] = "Попытаться изготовить предмет по рецепту."
+}
