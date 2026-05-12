@@ -1,4 +1,4 @@
-ATTRIBUTE.name = "Админский навык 1 (ADM1)"
-ATTRIBUTE.description = "Служебный навык для Гейм-Мастера (не используется игроками)"
+ATTRIBUTE.name = "Служебный бросок 1 (ADM1)"
+ATTRIBUTE.description = "Служебный параметр для Рассказчика. Игрокам обычно не используется."
 ATTRIBUTE.shortname = "adm1"
-ATTRIBUTE.category = "D"
+ATTRIBUTE.category = "Служебное"

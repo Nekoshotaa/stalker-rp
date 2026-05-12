@@ -1,0 +1,10 @@
+ITEM.name = "Пистолетные патроны"
+ITEM.description = "Коробка патронов для компактного оружия. Не столь внушительные, как револьверные калибры фронтира, но их легче достать и проще спрятать."
+ITEM.base = "base_ammo"
+ITEM.model = "models/crunchy/props/re4_props/ammorifle.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.category = "Боеприпасы"
+ITEM.ammoType = "tfa_ammo_pistol"
+ITEM.ammoAmount = 40
+ITEM.ammoBoxText = "Стандартные пистолетные патроны для части полуавтоматического и компактного оружия."

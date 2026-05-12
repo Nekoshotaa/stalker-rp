@@ -1,4 +1,4 @@
 ATTRIBUTE.name = "Сила (STR)"
-ATTRIBUTE.description = "Ваша физическая сила, перенос тяжестей и грубое усилие"
+ATTRIBUTE.description = "Грубая физическая мощь: драка, удержание, выбивание дверей, перенос тяжестей."
 ATTRIBUTE.shortname = "str"
-ATTRIBUTE.category = "P"
+ATTRIBUTE.category = "Характеристики"

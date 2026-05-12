@@ -1,0 +1,10 @@
+ITEM.name = "Крупные винтовочные патроны"
+ITEM.description = "Тяжёлые патроны для дальнобойного оружия. Их берегут для охоты, засад и тех случаев, когда промах слишком дорог."
+ITEM.base = "base_ammo"
+ITEM.model = "models/crunchy/props/contagion_props/50ae_ammobox.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.category = "Боеприпасы"
+ITEM.ammoType = "tfa_ammo_ar2"
+ITEM.ammoAmount = 20
+ITEM.ammoBoxText = "Крупные винтовочные патроны для редких винтовок и нестандартного оружия из TFA-пака."

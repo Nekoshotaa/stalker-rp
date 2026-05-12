@@ -1,0 +1,10 @@
+ITEM.name = "Патроны для скорострельного оружия"
+ITEM.description = "Плотно уложенная коробка патронов для редкого скорострельного оружия. Для обычного фронтира такая вещь выглядит почти чужеродно."
+ITEM.base = "base_ammo"
+ITEM.model = "models/crunchy/props/nmrih_props/ammo/ammo_9mm.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.category = "Боеприпасы"
+ITEM.ammoType = "tfa_ammo_smg"
+ITEM.ammoAmount = 50
+ITEM.ammoBoxText = "Патроны для редкого автоматического или скорострельного оружия. Лучше использовать как квестовый/редкий ресурс."

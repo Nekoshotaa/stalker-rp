@@ -1,0 +1,10 @@
+ITEM.name = "Патроны для винчестера"
+ITEM.description = "Коробка винтовочных патронов для рычажных карабинов и старых винтовок. Пыльная бумага, латунный блеск и запах дороги."
+ITEM.base = "base_ammo"
+ITEM.model = "models/crunchy/props/contagion_props/357_ammobox.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.category = "Боеприпасы"
+ITEM.ammoType = "tfa_ammo_winchester"
+ITEM.ammoAmount = 30
+ITEM.ammoBoxText = "Патроны для винчестеров, карабинов и части рычажных винтовок из western-пака."

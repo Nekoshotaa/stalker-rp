@@ -1,0 +1,10 @@
+ITEM.name = "Патроны .357"
+ITEM.description = "Небольшая коробка тяжёлых револьверных патронов. Хороши для крупного револьвера, дуэли или последнего выстрела у старой дороги."
+ITEM.base = "base_ammo"
+ITEM.model = "models/crunchy/props/nmrih_props/ammo/ammo_308.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.category = "Боеприпасы"
+ITEM.ammoType = "tfa_ammo_357"
+ITEM.ammoAmount = 24
+ITEM.ammoBoxText = "Тяжёлые револьверные патроны. Используются частью крупнокалиберного оружия из western-пака."

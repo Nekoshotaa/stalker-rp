@@ -1,4 +1,4 @@
 ATTRIBUTE.name = "Лидерство (LDR)"
-ATTRIBUTE.description = "Ваши способности координировать людей, удерживать дисциплину и вести группу за собой"
+ATTRIBUTE.description = "Командование, авторитет внутри банды, способность удержать людей вместе и заставить их действовать."
 ATTRIBUTE.shortname = "ldr"
-ATTRIBUTE.category = "S"
+ATTRIBUTE.category = "Таланты"

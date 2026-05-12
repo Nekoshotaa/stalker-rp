@@ -1,4 +1,4 @@
 ATTRIBUTE.name = "Выживание (SUR)"
-ATTRIBUTE.description = "Ваши навыки выживания в полевых условиях, ориентирования и жизни вне безопасных зон"
+ATTRIBUTE.description = "Пустыня, ночные дороги, лагерь, следы, вода, укрытия, погода и жизнь за пределами города."
 ATTRIBUTE.shortname = "sur"
-ATTRIBUTE.category = "F"
+ATTRIBUTE.category = "Навыки"

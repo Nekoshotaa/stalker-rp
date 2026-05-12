@@ -1,0 +1,10 @@
+ITEM.name = "Дробь 12 калибра"
+ITEM.description = "Коробка дробовых патронов для двустволок, обрезов и тяжёлых ружей. На близкой дистанции спор заканчивается быстро."
+ITEM.base = "base_ammo"
+ITEM.model = "models/crunchy/props/contagion_props/45acp_ammobox.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.category = "Боеприпасы"
+ITEM.ammoType = "tfa_ammo_buckshot"
+ITEM.ammoAmount = 16
+ITEM.ammoBoxText = "Дробовые патроны для ружей, обрезов и дробовиков western-пака."

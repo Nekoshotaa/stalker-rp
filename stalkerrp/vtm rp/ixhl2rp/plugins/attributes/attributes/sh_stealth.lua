@@ -1,4 +1,4 @@
 ATTRIBUTE.name = "Скрытность (STL)"
-ATTRIBUTE.description = "Ваш уровень способности скрываться, двигаться тихо и избегать лишнего внимания"
+ATTRIBUTE.description = "Подкрасться, спрятаться, уйти из вида, двигаться бесшумно и не оставить очевидных следов."
 ATTRIBUTE.shortname = "stl"
-ATTRIBUTE.category = "F"
+ATTRIBUTE.category = "Навыки"

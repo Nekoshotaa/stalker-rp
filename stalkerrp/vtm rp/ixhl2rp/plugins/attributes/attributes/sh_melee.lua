@@ -1,4 +1,4 @@
-ATTRIBUTE.name = "Ближний бой (MEL)"
-ATTRIBUTE.description = "Ваши навыки боя вблизи, обращения с ножом и импровизированным оружием"
+ATTRIBUTE.name = "Холодное оружие (MEL)"
+ATTRIBUTE.description = "Ножи, сабли, топоры, приклады, колья и любое оружие ближнего боя."
 ATTRIBUTE.shortname = "mel"
-ATTRIBUTE.category = "C"
+ATTRIBUTE.category = "Навыки"
