@@ -1,7 +1,7 @@
 
-Schema.name = "StalkerRP"
-Schema.author = "nebulous.cloud"
-Schema.description = "Самый хуевый ваш опыт в РП."
+Schema.name = "VTM: Wild West"
+Schema.author = "Nekoshota"
+Schema.description = "Ваншот сюжетная хроника по Vampire Wild West."
 
 -- Include netstream
 ix.util.Include("libs/thirdparty/sh_netstream2.lua")
